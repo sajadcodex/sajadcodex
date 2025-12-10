@@ -104,11 +104,6 @@ Mobile & Cloud
 
 <div align="center">
 
-  <div class="stats-container">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sajadcodex&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4CC9F0&icon_color=4CC9F0&text_color=ffffff" alt="sajadcodex's GitHub Stats" />
-
-  </div>
-
   <div class="activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajadcodex&theme=github-dark&hide_border=true&area=true&point=4CC9F0&line=4CC9F0&area_color=4CC9F020" alt="GitHub Activity Graph" />
   </div>
