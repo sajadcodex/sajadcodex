@@ -26,28 +26,6 @@
 - **Currently Learning**: Advanced JavaScript & Backend Development
 - **Fun Fact**: I turn coffee into code ☕ → 💻
 
-### 🛠️ Tech Stack
-
-#### Frontend Development
-- **JavaScript** - Core programming language
-- **HTML5** - Semantic web structure
-- **CSS3** - Styling and animations
-- **Bootstrap** - Responsive design framework
-
-#### Backend Development
-- **Node.js** - Server-side JavaScript
-- **Express.js** - Web application framework
-- **PHP** - Server-side scripting
-
-#### Databases
-- **MongoDB** - NoSQL database
-- **MySQL** - Relational database
-- **Firebase** - Real-time database
-
-#### Mobile & Cloud
-- **React Native** - Cross-platform mobile development
-- **AWS** - Cloud services and deployment
-
 ### 🚀 Current Focus
 I'm currently expanding my expertise in advanced JavaScript concepts and backend development to build full-stack applications that solve real-world problems.
   
