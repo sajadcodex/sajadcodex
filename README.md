@@ -12,13 +12,6 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=sajadcodex&label=Profile%20Views&color=0e75b6&style=for-the-badge&animation=pulse)
   
-  <div class="trophy-badge">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=sajadcodex&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="sajadcodex" />
-    </a>
-  </div>
-</div>
-
 ---
 
 ## 👤 About Me
