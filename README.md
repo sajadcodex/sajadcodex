@@ -140,17 +140,13 @@ Mobile & Cloud
 
 <div align="center">
 
-🎯 Goals for 2024
+🎯 Goals for 2026
 
 · Master JavaScript Fundamentals
 · Learn Node.js Basics
 · Build Full-Stack Projects
 · Contribute to Open Source
 · Learn React.js
-
-  <br>
-
-  <img src="https://raw.githubusercontent.com/sajadcodex/sajadcodex/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
   <br>
 
