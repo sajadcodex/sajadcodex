@@ -46,10 +46,11 @@
 🤝 Currently Working With
 
 <div align="center" class="collab-section">
-  <a href="https://github.com/SHAHILALI05" target="_blank" class="collab-card">
+  <a href="https://github.com/SHAHILALI0
+    5" target="_blank" class="collab-card">
     <div class="collab-inner">
-      <img src="https://avatars.githubusercontent.com/SHAHILALI05" alt="Shahil Ali" width="100" height="100" style="border-radius: 50%; border: 3px solid #4CC9F0;">
-      <h3>@SHAHILALI05</h3>
+      <img src="https://avatars.githubusercontent.com/SHAHILALI5" alt="Shahil Ali" width="100" height="100" style="border-radius: 50%; border: 3px solid #4CC9F0;">
+      <h3>@SHAHILALI5</h3>
       <p>GitHub Collaboration</p>
       <div class="pulse-animation"></div>
     </div>
