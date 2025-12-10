@@ -19,29 +19,48 @@
   </div>
 </div>
 
-<div align="center" style="margin: 30px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4CC9F0&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
-</div>
-
 ---
 
-## 🚀 About Me
+## 👤 About Me
 
 <div class="about-me" align="center">
+  
+### 🎯 Personal Details
+- **Name**: SAJAD
+- **Pronouns**: He/Him  
+- **Location**: Kashmir, India
+- **Email**: sajad.7080331745@gmail.com
+- **Currently Learning**: Advanced JavaScript & Backend Development
+- **Fun Fact**: I turn coffee into code ☕ → 💻
 
-  const sajad = {
-    pronouns: "he" | "him",
-    code: ["JavaScript", "HTML", "CSS", "PHP"],
-    tools: ["Node.js", "Express", "React Native", "Bootstrap"],
-    databases: ["MongoDB", "MySQL", "Firebase"],
-    clouds: ["AWS"],
-    currentlyLearning: "Advanced JavaScript & Backend Development",
-    funFact: "I turn coffee into code ☕ → 💻"
-  };
+### 🛠️ Tech Stack
 
+#### Frontend Development
+- **JavaScript** - Core programming language
+- **HTML5** - Semantic web structure
+- **CSS3** - Styling and animations
+- **Bootstrap** - Responsive design framework
+
+#### Backend Development
+- **Node.js** - Server-side JavaScript
+- **Express.js** - Web application framework
+- **PHP** - Server-side scripting
+
+#### Databases
+- **MongoDB** - NoSQL database
+- **MySQL** - Relational database
+- **Firebase** - Real-time database
+
+#### Mobile & Cloud
+- **React Native** - Cross-platform mobile development
+- **AWS** - Cloud services and deployment
+
+### 🚀 Current Focus
+I'm currently expanding my expertise in advanced JavaScript concepts and backend development to build full-stack applications that solve real-world problems.
+  
 </div>
 
----
+<!-- Rest of your README remains the same -->
 
 🤝 Currently Working With
 
